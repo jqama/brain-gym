@@ -27,5 +27,6 @@ Instead of solving problems once and forgetting them, I use this space to:
 | System Design        | 0     |
 | Behavioral           | 0     |
 | Puzzles              | 0     |
+| Technical            | 0     |
 
 Last Updated on : 20-03-2026
