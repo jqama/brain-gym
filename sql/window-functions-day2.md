@@ -1,5 +1,5 @@
 # SQL Problem: CTE WITH DENSE_RANK() WINDOW FUNCTIONS
-![alt text](e-commerce-schema-1.png)
+![alt text](e-commerce-schema.png)
 ## Problem
 Find the top 3 products by revenue for each category.
 
